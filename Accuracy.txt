@@ -1,0 +1,23 @@
+Precision :
+=====
+	It is a measure of correctness achieved in true prediction i.e. of observations labelled as true, how many are actually labelled true.
+
+Precision = TP / (TP+FP)
+
+Recall (Sensitivity):
+========
+	It is a measure of actual observations which are predicted correctly. It is also known as Sensitivity.
+
+Recall = TP / (TP+FN)
+
+Specificity:
+=====
+	It is a measure of how many observations of false class are labeled correctly.
+
+Specificity = TN / (TN+FP)
+
+ROC Curve:
+=====
+	Receiver Operating Characteristic(ROC) summarizes the model's performance by evaluating the trade off's between TP and FP.
+
+* The area under curve(AUC), referred to as index of Accuracy(A) or concordance index, is a perfect performance metric for ROC curve. Higher the AUC, better the prediction power. 

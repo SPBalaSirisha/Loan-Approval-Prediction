@@ -1,0 +1,15 @@
+Problem Statement:
+=================
+
+Dream housing finance company deals in all home loans. They have presence across all urban,semi urban and rural areas. Customers first apply for home loan after that company validates the customer eligibility for the loan. Company wants to automate the loan eligibility process based on detail provided while filling the online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customer segments, those are eligible for loan amount so that they can specifically target these customers.  
+
+Hypothesis:
+==========
+-> Salary: Applicants with higher salary should have more chances of loan approval.
+-> Prev History: Applicants who have repayed their previous debts should have higher chances of loan approval.
+-> Loan amount: Less the loan amount, more is chance of loan approval.
+-> Loan term: Loan for less time period and less amount should have higher chances of loan approval.
+-> EMI: Lesser the amount to be paid monthly to repay the loan, higher the chances of loan approval. 
+
+Data:
+
